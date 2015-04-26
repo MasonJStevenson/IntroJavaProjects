@@ -1,0 +1,120 @@
+GO
+GO -1 -1 -1 -1 -1 -1 -1
+
+Mediterranean Ave.
+PROPERTY 60 50 2 40 250 1 1
+
+Community Chest
+FS -1 -1 -1 -1 -1 -1 -1
+
+Baltic Avenue
+PROPERTY 60 50 4 80 450 1 1
+
+INCOME TAX
+INCTAX -1 -1 -1 -1 -1 -1 -1
+
+Reading RailRoad
+RR 200 -1 -1 -1 -1 -1 -1
+
+Oriental Avenue
+PROPERTY 100 50 6 100 550 3 2
+
+Chance
+FS -1 -1 -1 -1 -1 -1 -1
+
+Vermont Avenue
+PROPERTY 100 50 6 100 550 3 2
+
+Connecticut Avenue
+PROPERTY 120 50 8 112 600 3 2
+
+JAIL
+JL -1 -1 -1 -1 -1 -1 -1
+
+St. Charles Place
+PROPERTY 140 100 10 156 750 2 3
+
+Electric Company
+UTIL 150 -1 -1 -1 -1 -1 -1
+
+States Avenue
+PROPERTY 140 100 10 156 750 2 3
+
+Virgina Avunue 
+PROPERTY 160 100 12 175 900 2 3
+
+Pennsylvania RR
+RR 200 -1 -1 -1 -1 -1 -1
+
+St. James Place
+PROPERTY 180 100 14 187 950 5 4
+
+Community Chest
+FS -1 -1 -1 -1 -1 -1 -1
+
+Tennesee Avenue
+PROPERTY 180 100 14 187 950 5 4
+
+New York Avenue
+PROPERTY 200 100 16 200 1000 5 4
+
+Free Parking
+FS -1 -1 -1 -1 -1 -1 -1
+
+Kentucky Avenue
+PROPERTY 220 150 18 218 1050 4 5
+
+Chance
+FS -1 -1 -1 -1 -1 -1 -1
+
+Indiana Avenue
+PROPERTY 220 150 18 218 1050 4 5
+
+Illinois Ave
+PROPERTY 240 150 20 231 1100 4 5
+
+B&O RailRoad
+RR 200 -1 -1 -1 -1 -1 -1
+
+Atlantic Avenue
+PROPERTY 260 150 22 243 1150 6 6
+
+Ventnor Avenue
+PROPERTY 260 150 22 243 1150 6 6
+
+Water Works
+UTIL 150 -1 -1 -1 -1 -1 -1
+
+Marvin Gardens
+PROPERTY 280 150 24 256 1200 6 6
+
+GO TO JAIL
+GTJ -1 -1 -1 -1 -1 -1 -1
+
+Pacific Avenue
+PROPERTY 300 200 26 275 1275 7 7
+
+North Carolina Ave.
+PROPERTY 300 200 26 275 1275 7 7
+
+Community Chest
+FS -1 -1 -1 -1 -1 -1 -1
+
+Pennsylvania Ave.
+PROPERTY 320 200 28 300 1400 7 7
+
+Short Line
+RR 200 -1 -1 -1 -1 -1 -1
+
+Chance
+FS -1 -1 -1 -1 -1 -1 -1
+
+Park Place
+PROPERTY 350 200 35 325 1500 8 8
+
+Luxury Tax
+LUXTAX -1 -1 -1 -1 -1 -1 -1
+
+Boardwalk
+PROPERTY 400 200 50 425 2000 8 8
+
